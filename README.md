@@ -10,7 +10,17 @@ I leared how to process a more complex readme file and translate that into actio
 
 ## Screenshot
 
+Screenshot of deployed web page:
+
+![
+](./assets/images/gmgabrie.github.io_mod1-challenge-horiseon_.png)
+
 ## Link
+
+Link to deployed web page:
+
+https://gmgabrie.github.io/mod1-challenge-horiseon/
+
 
 ## Features
 
